@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Green Harvest
 
 A React + Vite farmer app with:
@@ -24,3 +25,6 @@ http://127.0.0.1:4173
 ## Firebase
 
 Create a `.env` file from `.env.example` and add your Firebase web app config.
+=======
+# AT-App
+>>>>>>> 9ea1792fbda254399119164f5be9cf79585d42f6
